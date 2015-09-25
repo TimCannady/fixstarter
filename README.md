@@ -55,22 +55,6 @@ To setup locally:
 
 ![Schema](http://i.imgur.com/xnhuHuy.png)
 
-**General app structure:**
-
-<!-- ![Appstructure]() -->
-
 **React tree:**
 
 ![React Tree](http://i.imgur.com/JGwI6jX.jpg)
-
-**Homepage wireframe:**
-
-<!-- ![Wireframe]() -->
-
-**Docs**
-
-**Gems**
-
-**Tutorials**
-
-**General**
