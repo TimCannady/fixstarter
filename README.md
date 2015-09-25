@@ -61,7 +61,7 @@ To setup locally:
 
 **React tree:**
 
-<!-- ![Reacttree]() -->
+![React Tree](http://i.imgur.com/JGwI6jX.jpg)
 
 **Homepage wireframe:**
 
